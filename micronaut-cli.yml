@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: zoo.api
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
